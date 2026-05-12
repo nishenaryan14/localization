@@ -1,0 +1,340 @@
+<resources>
+    <string name="update_available">Update available.</string>
+    <string name="device_fw_up_to_date">Device is up to date.</string>
+    <string name="device_fw_in_progress">Updating… %1$s\%%</string>
+    <string name="app_update_available">App Updates Needed.</string>
+    <string name="find_device">Find Device</string>
+    <string name="battery">Battery:</string>
+    <string name="headset">Headset:</string>
+    <string name="percentage">%1$d%%</string>
+    <string name="status">Status:</string>
+    <string name="last_known_battery">Last Known Battery:</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="in_use">In use</string>
+    <string name="connected_audio">Connected (Audio)</string>
+    <string name="software">Software:</string>
+    <string name="available">Available:</string>
+    <string name="do_not_disturb">Do Not Disturb</string>
+    <string name="do_not_disturb_popup_info">Do Not Disturb enables the LED indicator on your headset to inform others that you prefer not to be interrupted.</string>
+    <string name="no_devices_connected">No devices connected</string>
+    <string name="no_devices_connected_description">Select your device or allow Poly Studio to connect automatically by going to the Bluetooth settings on your phone.</string>
+    <string name="user_guides">User Guides</string>
+    <string name="phone_settings">Phone Settings</string>
+    <string name="main_menu_general">General</string>
+    <string name="main_menu_health_and_wellness">Health &amp; Wellness</string>
+    <string name="main_menu_find_my_device">Find My Device</string>
+    <string name="main_menu_user_guides">User Guides</string>
+    <string name="main_menu_hp_support">Support</string>
+    <string name="hp_support">Support</string>
+    <string name="main_menu_color_theme">Color Theme</string>
+    <string name="main_menu_feedback">Feedback</string>
+    <string name="menu">Menu</string>
+    <string name="main_menu_account">Account</string>
+    <string name="main_menu_notifications">Notifications &amp; Device Alerts</string>
+    <string name="notifications">Notifications</string>
+    <string name="your_account">Your Account</string>
+    <string name="your_account_not_logged_in">You aren\'t currently logged in.</string>
+    <string name="your_account_logged_in">Name: %1$s\n\nEmail: %2$s</string>
+    <string name="log_in">Log In</string>
+    <string name="log_out">Log Out</string>
+    <string name="login">Login</string>
+    <string name="share_data">Share Data</string>
+    <string name="share_data_description_part_1">Help us improve your experience by sharing basic device and app information, such as model, serial number, software version and feature usage.</string>
+    <string name="share_data_description_part_2">This data doesn’t include any personal information and will not be shared with third parties.</string>
+    <string name="follow_phone_theme">Follow Phone Theme</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="setting_unavailable_message">This feature is currently not available for this device.</string>
+    <string name="parent_child_settings_screen">Mute reminder</string>
+    <string name="device_up_to_date">Up to date.</string>
+    <string name="app_up_to_date">Poly Studio is up to date</string>
+    <string name="current">Current: %1$s</string>
+    <string name="update_available_colon">Update Available: </string>
+    <string name="headset_up_to_date">Your Headset is Up To Date: %1$s</string>
+    <string name="earbuds_up_to_date">Your Earbuds are Up To Date: %1$s</string>
+    <string name="case_up_to_date">Your Case is Up To Date: %1$s</string>
+    <string name="charge_stand_up_to_date">Your Charge Stand is Up To Date: %1$s</string>
+    <string name="software_version">Software Version: %1$s</string>
+    <string name="software_version_support">Software Version:</string>
+    <string name="settings_activity_loading">Loading…</string>
+    <string name="power_off_required_description">Device settings will be reset to factory default.</string>
+    <string name="clear_trusted_devices_dialog_title">Are you sure you want to clear trusted device list?</string>
+    <string name="default_settings_restored">Default Settings Restored</string>
+    <string name="trusted_device_list_restored">Trusted device list cleared</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="licence_title">Well hello,\nfirst things first…</string>
+    <string name="licence_description">In order to use Poly Studio, please consent to the conditions of the HP User License Agreement and Privacy Policy.</string>
+    <string name="licence_agree">I consent to the </string>
+    <string name="licence_agreement">License Agreement</string>
+    <string name="continue_string">Continue</string>
+    <string name="up_to_date_onboard">Up-to-Date</string>
+    <string name="up_to_date_description">Never miss an update. Use Poly Studio to update all your devices and ensure you always have the latest features.</string>
+    <string name="personal">Personal</string>
+    <string name="personal_description">Customize your settings and make your Poly devices work the way you want them to work. Let’s get started.</string>
+    <string name="organized">Organized</string>
+    <string name="organized_description">Can’t find your device? No problem. Poly Studio has a location feature to help you find a misplaced device. Enable location tracking now or later in Find My Device to stay current on your device’s location.</string>
+    <string name="healthy">Healthy</string>
+    <string name="healthy_description">Set reminders to hydrate and take screen breaks, or listen to relaxing sounds of nature while you work.</string>
+    <string name="skip">Skip</string>
+    <string name="enable_now">Enable now</string>
+    <string name="login_explanation">Log in to get the most out of your Poly Studio experience.</string>
+    <string name="continue_as_guest">Continue as Guest</string>
+    <string name="clear">Clear</string>
+    <string name="reset">Reset</string>
+    <string name="remove_device_confirmation_description">Are you sure you want to delete this device?</string>
+    <string name="licence_agreement_part_1">License</string>
+    <string name="licence_agreement_part_2">Agreement</string>
+    <string name="and">and</string>
+    <string name="bluetooth_off_title">Bluetooth off</string>
+    <string name="bluetooth_off_description">Turn on Bluetooth on your mobile device before using Poly Studio.</string>
+    <string name="select_device">Select Device</string>
+    <string name="supported_devices_footer">Check back for future supported devices.</string>
+    <string name="new_label">New</string>
+    <string name="internet_required_for_feature">Feature unavailable. An internet connection is required to use this feature.</string>
+    <string name="none">None</string>
+    <string name="settings_restored_dialog_title">Settings Restored!</string>
+    <string name="settings_restored_dialog_description">Remember to unplug (if USB-connected) and power off/on your headset in order for your new settings to take effect.</string>
+    <string name="device_product_id_label">Device Product ID:</string>
+    <string name="hardware_revision_label">Hardware Revision:</string>
+    <string name="device_rename_update_required">You must update the software to access this feature.</string>
+
+    // Button actions
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="retry">Retry</string>
+    <string name="confirm">Confirm</string>
+    <string name="ok">Ok</string>
+    <string name="ok_got_it_dialog_button_text">Ok got it</string>
+    <string name="next">Next</string>
+    <string name="test">Test</string>
+    <string name="done">Done</string>
+    <string name="start_test">Start Test</string>
+
+    // DFU screen
+    <string name="start_update">Start Update</string>
+    <string name="firmware_update_software_update">Software Update</string>
+    <string name="lets_go_title">Let\'s Get Started!</string>
+    <string name="firmware_update_software_update_description">An update is available for your device. The update takes a few minutes to complete. Let\'s get started.</string>
+    <string name="firmware_update_three_easy_steps">Three Easy Steps</string>
+    <string name="firmware_update_three_easy_steps_description">Keep your device connected and next to the mobile device.\n\nDon\'t close Poly Studio while updating.\n\nPlug your phone into a power source.</string>
+    <string name="firmware_update_updating">Updating</string>
+    <string name="firmware_update_updating_description">Answering a call may interrupt the update and require you to restart the update once the call ends.\n\nTo avoid interruptions, we recommend completing the update before using your device for calls.</string>
+    <string name="firmware_update_verifying_description">Almost there, don\'t leave yet.</string>
+    <string name="firmware_update_completed">Update Complete</string>
+    <string name="firmware_update_completed_description">The software update for \"%1$s\" has successfully updated.\n\n Close this window to return to home screen.</string>
+    <string name="dfu_failed">Houston…</string>
+    <string name="dfu_failed_description">We have a problem.\n\nThe software update for \"%1$s\" didn\'t successfully complete.\n\nKeep your Poly device and your mobile device nearby, connected to each other and the Internet.</string>
+    <string name="dfu_alert_phone_battery_not_ready">Your device battery doesn\'t have enough power to update the software.\n\nFully charge the device or plug it into a power source and try again.</string>
+    <string name="dfu_alert_battery_not_ready_headset">Device battery is too low to update the software. Connect your device to a power source and try again.</string>
+    <string name="dfu_alert_battery_not_ready_earbuds">Be sure your earbuds are out of the case, connected, and fully charged to complete the update.</string>
+    <string name="dfu_alert_battery_not_ready_charge_case">Device charging case battery is too low to update the software. Connect your device charging case to a power source and try again.</string>
+    <string name="dfu_alert_battery_not_ready_both">Not enough battery remaining to update the software. Connect your device and charging case to a power source and try again.</string>
+    <string name="dfu_in_progress_warning">Device Settings can not be accessed during Software Update.</string>
+    <string name="dfu_not_ready">Update currently not available, please try back later.</string>
+    <string name="dfu_blocked_by_in_call">Cannot update this device during a call.</string>
+    <string name="software_update_complete">Software Update Complete</string>
+    <string name="updating_software">Updating Software</string>
+    <string name="verifying_software">Verifying</string>
+    <string name="update_needed">Updates Needed.</string>
+    <string name="current_available_version">Current: %1$s, Update Available: %2$s</string>
+    <string name="update">Update</string>
+    <string name="support_type_of_issue">What type of issues do you have?</string>
+    <string name="support_device_issue">Which device do you have issues with?</string>
+    <string name="device">Device</string>
+    <string name="app">App</string>
+    <string name="support_no_devices_error">No previously connected devices were found. Please connect devices using the mobile device\’s Bluetooth Settings prior to requesting device support.</string>
+    <string name="support_details_title">Send the detailed information to Support.\nTake a screen shot or write down the below\ndetails for a faster process.</string>
+    <string name="app_version">App Version:</string>
+    <string name="tenant_name">Tenant Name:</string>
+    <string name="tenant_id">Tenant ID:</string>
+    <string name="user_id">User ID:</string>
+    <string name="app_id">App ID:</string>
+    <string name="last_connected">Last Connected:</string>
+    <string name="go">Go</string>
+    <string name="device_name">Device Name:</string>
+    <string name="serial_number">Serial Number:</string>
+    <string name="hp_product_support">Product Support</string>
+    <string name="help_guide_button_text">Help Guide</string>
+    <string name="find_my_device">Find My Device</string>
+    <string name="play_button_description">Make sure this device is being used as your main audio source to play tone.</string>
+    <string name="sending_tone">Sending tone…</string>
+    <string name="near_address">Near %1$s</string>
+    <string name="unknown">Unknown</string>
+    <string name="page_of">%1$s of %2$s</string>
+    <string name="select_language">Select Language</string>
+    <string name="select_language_description">Select the language you want for all voice prompts and alerts. For example, \"Incoming call from John.\" or \"Mute on.\"</string>
+    <string name="select_language_description_new">Select the language to use for all voice prompts and alerts. For example, "Incoming call from John." or "Mute on."</string>
+    <string name="no_devices_found">No devices were found. Connect your Poly device using Bluetooth and try again.</string>
+    <string name="confirm_language_change">You must update the software to apply the selected language. The language change only applies to audio.</string>
+    <string name="later">Later</string>
+    <string name="update_now">Update Now</string>
+    <string name="poly">Poly</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about">About</string>
+    <string name="licenses">Licenses</string>
+    <string name="licenses_title">Third-party Software</string>
+    <string name="source">Source</string>
+    <string name="poly_improvement_dialog_yes_button_text">Share Data</string>
+    <string name="poly_improvement_dialog_no_button_text">Don\'t Share</string>
+    <string name="poly_improvement_dialog_title">Help us improve your experience.</string>
+    <string name="poly_improvement_dialog_description_part_1">HP may collect basic device and app information, such as model, serial number, software version and feature usage, to help improve performance and support.</string>
+    <string name="poly_improvement_dialog_description_part_2">This data doesn’t include any personal information and will not be shared with third parties.</string>
+    <string name="poly_improvement_dialog_description_part_3">You can change your preferences at anytime in Settings.</string>
+    <string name="location_usage_explanation">The app collects location data to enable Find My Device feature even when the app is closed or not in use.</string>
+    <string name="enable_location_dialog_text">In order to use this feature you must give permission for location usage.</string>
+    <string name="enable_notification_dialog_text">In order to use this feature you must give permission for showing notifications.</string>
+    <string name="session_expired_dialog_text">Your session has expired. You need to log in again.</string>
+    <string name="enable_location_positive_button">Enable now</string>
+    <string name="enable_location_negative_button">Cancel</string>
+    <string name="turn_on_location_dialog_text">Turn on Location Services to allow "Poly Studio" to determine your location.</string>
+    <string name="turn_on_location_positive_button">Settings</string>
+    <string name="turn_on_location_negative_button">Cancel</string>
+    <string name="internet_connection_error_title">Something is wrong.</string>
+    <string name="internet_connection_error_description">Please check your network connection and try again.</string>
+    <string name="media_connection_warning">Warning! Exposure to high sound levels may cause permanent damage to your hearing.\n\n Make sure your device is not being worn by anyone before tapping “Play” to send a tone.</string>
+    <string name="media_connection_warning_ok">Ok got it</string>
+    <string name="media_connection_error">Please change your audio connection default to Media Audio to hear the tone.</string>
+    <string name="update_downloaded">An update has just been downloaded.</string>
+    <string name="restart">Restart</string>
+    <string name="support_please_login">Log in with your Poly Studio account to access useful information that can improve your support experience.</string>
+
+    // Launcher Screen
+    <string name="enable_bluetooth_dialog_text">In order to use this app you must give permission for Bluetooth scan and connect.</string>
+    <string name="bluetooth_usage_explanation">The app needs permission for Bluetooth scan and connect in order to connect with the device when it is turned on.</string>
+
+    // Talkback
+    <string name="talkback_drawer_icon">Drawer</string>
+    <string name="talkback_back_icon">Back</string>
+    <string name="talkback_close_icon">Close</string>
+    <string name="talkback_x_icon">Options collapse</string>
+    <string name="talkback_update_available">Update available</string>
+    <string name="talkback_device_image">Device image</string>
+    <string name="talkback_pager_indicator">Pager indicator</string>
+    <string name="talkback_device_settings">Device settings</string>
+    <string name="talkback_user_guide">User guide</string>
+    <string name="talkback_remove_device">Remove device</string>
+    <string name="talkback_selected">Selected</string>
+
+    // Invite widget
+    <string name="tenant_invite_widget_title">%1$s has invited you to %2$s.</string>
+    <string name="tenant_invite_widget_positive_button">Decline</string>
+    <string name="tenant_invite_widget_negative_button">Accept</string>
+
+    // Osprey UI
+    <string name="leftColon">Left:</string>
+    <string name="left">Left</string>
+    <string name="rightColon">Right:</string>
+    <string name="right">Right</string>
+    <string name="caseBattery">Case</string>
+    <string name="caseBatteryColon">Case:</string>
+    <string name="earbuds">Earbuds</string>
+    <string name="case_update_needed">Case update available</string>
+    <string name="earbuds_have_been_updated">Updates to your case must be made using Poly Studio Desktop app.</string>
+
+    // Delete account
+    <string name="account_deleted">Account Deleted</string>
+    <string name="confirm_delete_account_description">Are you sure you want to delete your account? This action cannot be undone and can take up to 60 seconds.</string>
+    <string name="retry_delete_account_description">Unable to perform task. Make sure your connection is stable if choosing to continue.</string>
+
+    // Tutorials
+    <string name="tutorials_title">Tutorials</string>
+    <string name="fit_test_title">Fit Test</string>
+    <string name="user_guide_title">User Guide</string>
+    <string name="onboarding_title">Onboarding</string>
+    <string name="tutorials_subtitle">Get to know your headset</string>
+    <string name="no_seeing_your_device">Not seeing your device?</string>
+    <string name="other_devices">Other Devices</string>
+
+    // Fit Test
+    <string name="fit_test_performing">Do not remove earbuds while performing the Fit Test.</string>
+    <string name="fit_test_success">This is a good fit!</string>
+    <string name="fit_test_canceled">The test could not be completed. Retry or cancel to exit the Fit Test.</string>
+    <string name="fit_test_failed_one_or_both_earbud">It looks like one or both earbuds need to be adjusted or try different size ear tip.</string>
+    <string name="fit_test_failed_any_earbud">Oh no! Something went wrong with one of your earbuds. Adjust the earbuds and retry the Fit Test.</string>
+    <string name="fit_test_right_earbud_disconnected">The right earbud was disconnected during the fit test.</string>
+    <string name="fit_test_left_earbud_disconnected">The left earbud was disconnected during the fit test.</string>
+    <string name="fit_test_good">Good</string>
+    <string name="fit_test_fail">Fail</string>
+    <string name="fit_test_error">Error</string>
+
+    // Onboarding
+    <string name="make_sure_device_is_connected">Make sure device is connected and up to date to access this feature.</string>
+
+    // Quick Guide
+    <string name="not_connected">Not connected</string>
+    <string name="quick_guide_replay">Replay</string>
+    <string name="rename_your_device_dialog_title">Rename your Device</string>
+
+    // One step DFU
+    <string name="update_all">Update All</string>
+    <string name="update_for_not_supported_component">This product can’t be updated in HP Poly Studio Mobile.\nUse HP Poly Studio Desktop to update this product.</string>
+    <string name="updates_available">Updates Available</string>
+    <string name="unencrypted_devices_state">Unencrypted Devices State</string>
+
+    // Anc Transparency
+    <string name="feature_unavailable_in_call_dialog_description">This setting cannot be adjusted when on a call.</string>
+
+    // Equalizer
+    <string name="equalizer_label">Equalizer</string>
+    <string name="equalizer_info">Equalizer (EQ) enhances clarity by adjusting the frequency for your preferred sound signature. Changes affect music streaming, not telephony.</string>
+    <string name="equalizer_level_highs_label">Highs</string>
+    <string name="equalizer_level_mids_label">Mids</string>
+    <string name="equalizer_level_lows_label">Lows</string>
+    <string name="equalizer_preset_bass">Bass</string>
+    <string name="equalizer_preset_bright">Bright</string>
+    <string name="equalizer_preset_flat">Flat</string>
+    <string name="equalizer_custom_config">Custom</string>
+    <string name="equalizer_preset_bass_description">Amplifies low frequencies, enriching the audio with clear and powerful deep tones.</string>
+    <string name="equalizer_preset_bright_description">Elevates high-frequency components, best for enhancing clarity for crisp audio.</string>
+    <string name="equalizer_preset_flat_description">A neutral balance across all frequencies, without emphasizing any particular range.</string>
+    <string name="get_current_equalizer_config_error_message">Could not get the currently selected equalizer configuration.</string>
+    <string name="set_equalizer_config_error_message">Could not set selected equalizer configuration.</string>
+    <string name="set_custom_equalizer_config_gains_error_message">Could not apply your custom EQ.</string>
+    <string name="set_custom_equalizer_config_gains_success_message">Your custom EQ has been saved.</string>
+    <string name="get_custom_equalizer_config_data_error_message">Could not get custom EQ parameters.</string>
+    <string name="overwrite_custom_equalizer_dialog_message">Saving this change will overwrite your existing custom EQ.</string>
+    <string name="custom_eq_save_button">Save EQ</string>
+    <string name="custom_eq_reset_button">Reset EQ</string>
+
+    // Device Support Info
+    <string name="home_screen_unencrypted_and_limited_support_info">Device software is unencrypted.\nIn-app functionality may be limited.</string>
+    <string name="home_screen_device_support_info_near_end_of_life">Device support is ending soon. No new functionality will be introduced.</string>
+    <string name="home_screen_device_support_info_end_of_life">Support for this device is no longer available.</string>
+    <string name="talkback_device_support_info_button">Device support info button</string>
+
+    // Custom Button
+    <string name="custom_button">Custom Button</string>
+    <string name="custom_button_option_other">Other Providers</string>
+    <string name="custom_button_ms_teams_connected_info">Microsoft Teams is connected. Other Providers is not available when Microsoft Teams is connected.</string>
+    <string name="custom_button_ms_teams_absent_info">Microsoft Teams is not connected. Select Other Providers to assign other custom actions to this button.</string>
+    <string name="custom_button_select_ms_teams_info_dialog">Microsoft Teams is not connected. Select Other Providers to assign other custom actions.</string>
+
+    // Release notes
+    <string name="release_notes">Release Notes</string>
+    <string name="release_notes_unavailable_dialog_message">Information about this update isn’t available at the moment.\n\nPlease check back later.</string>
+
+    // Home screen
+    <string name="poly_studio_intro_continue_action">Get started</string>
+    <string name="version">Version: %1$s</string>
+    <string name="no_email_app_found_error">No email app found. Content copied to clipboard.</string>
+    <string name="poly_studio_intro_title">Welcome to Poly Studio</string>
+    <string name="poly_studio_intro_description">A fresh new name and look for Poly Lens Mobile with intuitive navigation, streamlined tools, and the same trusted device management.</string>
+    <string name="poly_studio_intro_quick_settings_title">Home screen quick settings</string>
+    <string name="poly_studio_intro_quick_settings_description">Quickly access and personalise your top three settings from the home screen.</string>
+    <string name="poly_studio_intro_quick_start_title">New quick start guide</string>
+    <string name="poly_studio_intro_quick_start_description">Get started faster and in more detail, now only one tap away.</string>
+    <string name="quick_start_guide_title">Quick start guide</string>
+    <string name="quick_start_guide_intro_title">Quick start guide</string>
+    <string name="quick_start_guide_intro_description">This guide will help you get started with your new device.</string>
+    <string name="deep_settings_quick_settings_selection_title">Quick settings selection</string>
+    <string name="deep_settings_delete_device">Delete device</string>
+    <string name="quick_settings_subtitle">Quick settings</string>
+    <string name="quick_settings_description">Select up to three settings to show on your home screen.</string>
+    <string name="quick_settings_limit_info">Only three quick settings can be selected. Deselect one or more to make new selections.</string>
+    <string name="home_screen_unencrypted_device_info">Device software is unencrypted.\nIn-app functionality may be limited.</string>
+    <string name="home_screen_limited_support_info">In-app functionality may be limited.</string>
+</resources>
